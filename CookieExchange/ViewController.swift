@@ -26,8 +26,5 @@ class ViewController: UIViewController {
     func flipCard(withEmoji emoji: String, on button:UIButton) {
         
     }
-    func flipCard2(withEmoji emoji: String, on button:UIButton) {
-        
-    }
 }
 
